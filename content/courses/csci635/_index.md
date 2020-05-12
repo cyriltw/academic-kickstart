@@ -40,7 +40,7 @@ Email at `tcw at cs.rit.edu`
 
 ## Digesting the Course
 
-Due to COVID-19, there will be no in-person classes this summer and the medium of instruction would be virtual. 
+Due to COVID-19, there will be no in-person classes this summer and the medium of instruction would be virtual. I will release a media package to the Contents section every Sunday evening (by 11:59 EST) of the week of each given topic. They will resemble slides, but may contain videos, notes, articles, etc..
 
 ## Mental Health and Well-Being
 Success in this course depends heavily on your personal health and wellbeing. Recognize that stress is an expected part of the college experience, and it often can be compounded by unexpected setbacks or life changes outside the classroom. Your other instructors and I strongly encourage you to reframe challenges as an unavoidable pathway to success. Reflect on your role in taking care of yourself throughout the term, before the demands of exams and projects reach their peak. Please feel free to reach out to me about any difficulty you may be having that may impact your performance in this course as soon as it occurs and before it becomes unmanageable. In addition to myself, your other instructors, and your academic advisor, I strongly encourage you to contact the many other support services on campus that stand ready to assist you.
