@@ -24,13 +24,19 @@ An introduction to machine learning theories and algorithms. Topics include Supe
 
 ## Course Outcomes
 
-This feature can be used for publishing content such as:
+Students will be able to:
 
-* **Online courses**
-* **Project or software documentation**
-* **Tutorials**
+* Describe the types of problems that machine learning techniques are used to solve, and which machine learning algorithms are appropriate for solving each type of problem.
+* Describe, compare, and contrast different machine learning algorithms.
+* Implement machine learning algorithms using labeled data.
+* Work as a team to implement solutions to complex, real world machine learning problems.
+* Describe evaluation techniques for assessing and comparing machine learning techniques.
 
-The `courses` folder may be renamed. For example, we can rename it to `docs` for software/project documentation or `tutorials` for creating an online course.
+## Instructor
+
+Cyril Weerasooriya
+Email at `tcw at cs dot rit dot edu`
+
 
 ## Delete tutorials
 
