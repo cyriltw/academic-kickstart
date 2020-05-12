@@ -41,4 +41,3 @@ Email at `tcw at cs.rit.edu`
 ## Digesting the Course
 
 Due to COVID-19, there will be no in-person classes this summer and the medium of instruction would be virtual. 
-
