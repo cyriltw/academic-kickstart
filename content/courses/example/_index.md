@@ -37,7 +37,6 @@ Students will be able to:
 Cyril Weerasooriya
 Email at `tcw at cs dot rit dot edu`
 
-
 ## Delete tutorials
 
 **To remove these pages, delete the `courses` folder and see below to delete the associated menu link.**
