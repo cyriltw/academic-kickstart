@@ -1,13 +1,13 @@
 ---
 # Course title, summary, and position.
 linktitle: CSCI 635 - Introduction to Machine Learning
-summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
+summary: An introduction to machine learning theories and algorithms. Topics include Supervised Learning (e.g. Regression, Deep Neural networks, and SVM) and Probabilistic Graphical Models (e.g. Bayesian networks and Markov models). Programming assignments and projects are required.
 weight: 1
 
 # Page metadata.
 title: Overview
-date: "2018-09-09T00:00:00Z"
-lastmod: "2018-09-09T00:00:00Z"
+date: "2020-05-12T00:00:00Z"
+lastmod: "2020-05-12T00:00:00Z"
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
