@@ -20,8 +20,9 @@ menu:
     name: Overview
     weight: 1
 ---
+An introduction to machine learning theories and algorithms. Topics include Supervised Learning (e.g. Regression, Deep Neural networks, and SVM) and Probabilistic Graphical Models (e.g. Bayesian networks and Markov models). Programming assignments and projects are required.
 
-## Flexibility
+## Course Outcomes
 
 This feature can be used for publishing content such as:
 
