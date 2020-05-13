@@ -18,6 +18,7 @@ We will assign readings from the following texts.
 
 * [Deep Learning](https://www.deeplearningbook.org/) by Goodfellow et al.
 * [Machine Learning Probabilistic Perspective](https://www.cs.ubc.ca/~murphyk/MLbook/) by Kevin Murphy
+  
 **Other Supplemental Texts**
 * [Machine Learning](http://www.cs.cmu.edu/~tom/mlbook.html), by Tom Mitchell. *Great introduction to machine learning*
 
