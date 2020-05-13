@@ -16,8 +16,9 @@ weight: 1
 ## Grade Categories
 | Category        | Contribution           |
 | ------------- |:-------------:|
-| Homework Assignments (4) | 40% |
-| Project Assignments (2) | 30% |
+| Homework Assignments (3) | 30% |
+| Project Proposal (1) | 15% |
+| Project Milestone (1) | 25% |
 | Final Exam | 30%|
 | Total | **100%** |
 
@@ -28,7 +29,7 @@ weight: 1
 To calculate final grades, for each of the graded categories above (i.e., final exam) we will take the raw score given in the Grade tab and scale it to the points give above. E.g., if G is your final exam grade, and it is out of 40 raw points, the total number of final points is 0.25 * (G/40). 
 
 ## Homeworks
-There will be four homeworks. They will be made available in the Contents section, and you will be notified via the News widget on MyCourses.
+There will be three homeworks. They will be made available in the Contents section, and you will be notified via the News widget on MyCourses.
 
 You are not allowed to discuss assignments with anyone except **CS tutors (but not the grader) and me**. You are also not allowed to look up the answers to your assignments or at other people's work, eavesdrop on other's homework discussions, etc. You should submit only work that is completely your own and you should be able to explain all of your work to me.
 
