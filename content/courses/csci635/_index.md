@@ -46,8 +46,8 @@ We will organize weekly discussions based on your responses to the [onboarding s
 
 ## Schedule
 | Week | Start Date | Topic to be covered                               | Project Milestones   | Homework            |
-| ---- | ---------- | --------------------------------------------------------------------- | -------------------- | ------------------- |
-| 1    | 5/14/2020  | Introduction, data, real world issues, linear algebra, and statistics |                      |                     |
+| ---- | ---------- | --------------------------------------------------------------------- | -------------------- | ------------------ |
+| 1{{% fontawesome github %}}    | 5/14/2020  | Introduction, data, real world issues, linear algebra, and statistics |                      |                     |
 | 2    | 5/21/2020  | Numerical methods, optimization, calculus                             |                      | HW 1 \[Release\]    |
 | 3    | 5/28/2020  | Supervised Machine learning                                           |                      |                     |
 | 4    | 6/4/2020   | Feedforward neural networks, Keras, Tensorflow                        | Project 1 due        | HW 1 \[Data\] due   |
