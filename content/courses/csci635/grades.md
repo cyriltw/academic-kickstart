@@ -17,8 +17,9 @@ weight: 1
 | Category        | Contribution           |
 | ------------- |:-------------:|
 | Homework Assignments (3) | 30% |
+| Class participation | 5% | 
 | Project Proposal (1) | 15% |
-| Project Milestone (1) | 25% |
+| Project Milestone (1) | 20% |
 | Final Exam | 30%|
 | Total | **100%** |
 
