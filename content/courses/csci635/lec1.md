@@ -21,3 +21,5 @@ Welcome to the first day of class! We would be having our first class as a pre-r
 ## Resources Mentioned in this lesson
 
 * [Google Colab](https://colab.research.google.com/)
+* [Pandas working with missing data](https://pandas.pydata.org/pandas-docs/stable/user_guide/missing_data.html)
+* [Anaconda](https://www.anaconda.com/products/individual)
