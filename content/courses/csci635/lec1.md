@@ -21,7 +21,8 @@ Welcome to the first day of class! We would be having our first class as a pre-r
 {{< youtube id="evGRGpTDDGQ" >}}
 
 ## Resources Mentioned in this lesson
-* [Slides](635-Lec1-Intro.pdf)
+* [Slides](https://cs.rit.edu/~tcw/class/635-Lec1-Intro.pdf)
 * [Google Colab](https://colab.research.google.com/)
+* [Deep Learning Textbook Ch1](https://www.deeplearningbook.org/)
 * [Pandas working with missing data](https://pandas.pydata.org/pandas-docs/stable/user_guide/missing_data.html)
 * [Anaconda](https://www.anaconda.com/products/individual)
