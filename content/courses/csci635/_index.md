@@ -42,6 +42,8 @@ Email at `tcw at cs.rit.edu`
 
 Due to COVID-19, there will be no in-person classes this summer and the medium of instruction would be virtual. I will release a media package to the Contents section every Sunday evening (by 11:59 EST) of the week of each given topic. They will resemble slides, but may contain videos, notes, articles, etc..
 
+We will organize weekly discussions based on your responses to the [onboarding survey Google Form](https://forms.gle/PHJL8kipx5v9vkAP8).
+
 ## Schedule
 | Week | Start Date | Topic to be covered                               | Project Milestones   | Homework            |
 | ---- | ---------- | --------------------------------------------------------------------- | -------------------- | ------------------- |
