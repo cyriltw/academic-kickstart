@@ -31,13 +31,13 @@ We will assign readings from the following texts.
 | 1    | 5/14/2020  | Introduction, data, real world issues, linear algebra, and statistics |                      |                     |
 | 2    | 5/21/2020  | Numerical methods, optimization, calculus                             |                      | HW 1 \[Release\]    |
 | 3    | 5/28/2020  | Supervised Machine learning                                           |                      |                     |
-| 4    | 6/4/2020   | Feedforward neural networks, Keras, Tensorflow                        | Project 1 due        | HW 1 \[Data\] due   |
+| 4    | 6/4/2020   | Feedforward neural networks, Keras, Tensorflow                        | Project 1 due        | HW 1 due   |
 | 5    | 6/11/2020  | CNNs                                                                  |                      | HW 2 \[Release\]    |
 | 6    | 6/18/2020  | Regularization over neural networks and other practical topics        |                      |                     |
-| 7    | 6/25/2020  | Optimization                                                          |                      | HW 2 \[Nets\] due   |
+| 7    | 6/25/2020  | Optimization                                                          |                      | HW 2 due   |
 | 8    | 7/2/2020   | Sequence learning: Markov models                                      |                      |                     |
 | 9    | 7/9/2020   | HMMs, LSTMs                                                           | Project 2 due        |                     |
 | 10   | 7/16/2020  | Dimensionality reduction                                              |                      | HW 3 \[Release\]    |
 | 11   | 7/23/2020  | Unsupervised Learning                                                 |                      |                     |
-| 12   | 7/30/2020  | Reinforcement learning                                                |                      | HW 3 \[RL\] due<br> |
+| 12   | 7/30/2020  | Reinforcement learning                                                |                      | HW 3 due |
 | 13   | 8/5/2020   | Wrap up                                                               | Final Exam \[Aug 9\] |
