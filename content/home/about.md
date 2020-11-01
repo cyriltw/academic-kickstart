@@ -26,4 +26,3 @@ author = "admin"
     # Text color (true=light or false=dark).
     text_color_light = true
 +++
-+++
