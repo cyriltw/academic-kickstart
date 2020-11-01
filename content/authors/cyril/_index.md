@@ -18,11 +18,13 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include population-level label distribution learning and natural language processing.
 
 interests:
 - Label Distribution Learning
 - Computational Linguistics & Natural Language Processing
+- Human Disagreements and modeling them
+- Data Science
 - Machine Learning
 - Photography
 
@@ -68,6 +70,10 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+ Hello there. I study how we can predict human disagreements during human annotation using machine learning. This work is helpful when we want to model human disagreements, which is conventionally considered *annotation noise*. Following recent breakthroughs in machine learning research has shown instances where the algorithms being biased towards specific groups. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+ In parallel, I'm also working with University of Kelaniya in Sri Lanka to build an electronic medical record system for the entity of Sri Lanka. 
+
+ My previous research also comes from sociolinguistics, studying the evolution of *Sri Lankan English* across multiple generations. 
+
+ I envy sleep, but at the same time traveling. 
