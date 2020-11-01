@@ -75,7 +75,7 @@ user_groups:
 - Visitors
 ---
 
- Hello there. I study how we can predict human disagreements during human annotation using machine learning. This work is helpful when we want to model human disagreements, which is conventionally considered *annotation noise*. Following recent breakthroughs in machine learning research has shown instances where the algorithms being biased towards specific groups. 
+ Hello there. I study how we can predict human disagreements during human annotation using machine learning. This work is helpful when we want to model human disagreements, which is conventionally considered *annotation noise*. Following recent breakthroughs in machine learning research has shown instances where the algorithms being biased towards specific groups. I'm PhD student at the [Lab for Population Intelligence](https://www.rit.edu/lpi/) at RIT led by Professor Chris Homan.
 
  In parallel, I'm also working with University of Kelaniya in Sri Lanka to build an electronic medical record system for the entity of Sri Lanka. 
 
