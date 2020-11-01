@@ -49,7 +49,7 @@ social:
   icon_pack: fab
   link: https://twitter.com/dotcyril
 - icon: google-scholar
-  icon_pack: fab
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=P6zvClgAAAAJ&hl=en
 - icon: github
   icon_pack: fab
