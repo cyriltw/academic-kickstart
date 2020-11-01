@@ -14,6 +14,8 @@ role: PhD Student
 
 # Organizations/Affiliations
 organizations:
+- name: Lab for Population Intelligence
+  url: "https://rit.edu/lpi"
 - name: Rochester Institute of Technology
   url: ""
 
