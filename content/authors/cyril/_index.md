@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Cyril Weerasooriya
+title: Cyril Weerasooriya (සිරිල් වීරසූරිය)
 
 # Username (this should match the folder name)
 authors:
