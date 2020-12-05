@@ -17,4 +17,27 @@ autolink = true
 #   2: formspree.io
 email_form = 1
 +++
+widget: contact
+headless: true  # This file represents a page section.
 
+# ... Put Your Section Options Here (title etc.) ...
+
+content:
+  # Automatically link email and phone or display as text?
+  autolink: true
+  
+  # Email form provider
+  form:
+    provider: formspree
+    formspree:
+      id: me.cyrilw.com
+    netlify:
+      # Enable CAPTCHA challenge to reduce spam?
+      captcha: true
+      
+
+content:
+  form:
+    provider: formspree
+    formspree:
+      id: yourID
