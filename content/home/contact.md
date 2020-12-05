@@ -34,10 +34,3 @@ content:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: true
-      
-
-content:
-  form:
-    provider: formspree
-    formspree:
-      id: yourID
