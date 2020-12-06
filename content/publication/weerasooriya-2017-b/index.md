@@ -14,7 +14,7 @@ tags:
 - '"KeyXtract"'
 - '"Natural Language Processing"'
 - '"Tweets"'
-categories: []
+categories: ["featured"]
 date: '2017-01-01'
 lastmod: 2020-12-06T11:14:15-05:00
 featured: false
