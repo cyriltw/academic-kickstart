@@ -14,7 +14,7 @@ tags:
 - '"Tweet Analysis"'
 categories: []
 date: '2017-01-01'
-lastmod: 2020-12-06T11:06:43-05:00
+lastmod: 2020-12-06T11:14:15-05:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-06T16:06:43.246149Z'
+publishDate: '2020-12-06T16:14:15.571817Z'
 publication_types:
 - '1'
 abstract: A tweet is an authentic use of Natural Language where the user has to deliver
@@ -56,5 +56,6 @@ abstract: A tweet is an authentic use of Natural Language where the user has to 
   features of a sentence, the same method could be employed for other NLP tools.
 publication: '*16th International Conference on Advances in ICT for Emerging Regions,
   ICTer 2016 - Conference Proceedings*'
+url_pdf: https://ieeexplore.ieee.org/document/7829895
 doi: 10.1109/ICTER.2016.7829895
 ---

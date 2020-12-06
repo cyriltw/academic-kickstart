@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2016-01-01'
-lastmod: 2020-12-06T11:06:43-05:00
+lastmod: 2020-12-06T11:14:15-05:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-06T16:06:43.753730Z'
+publishDate: '2020-12-06T16:14:15.422832Z'
 publication_types:
 - '2'
 abstract: "Sri Lankan English (SLE) has unique phonological, morphological, lexical\

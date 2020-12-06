@@ -25,7 +25,7 @@ tags:
 - '"primary health care"'
 categories: []
 date: '2019-01-01'
-lastmod: 2020-12-06T11:06:44-05:00
+lastmod: 2020-12-06T11:14:14-05:00
 featured: false
 draft: false
 
@@ -43,7 +43,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-06T16:06:43.899313Z'
+publishDate: '2020-12-06T16:14:14.668052Z'
 publication_types:
 - '2'
 abstract: Sri Lankans made over 100 million visits to public and private outpatient
@@ -71,5 +71,6 @@ abstract: Sri Lankans made over 100 million visits to public and private outpati
   a population of 70,000, with a single electronic record for each person across all
   private and public sector healthcare providers.
 publication: '*2019 National Information Technology Conference, NITC 2019*'
+url_pdf: https://ieeexplore.ieee.org/document/9114518
 doi: 10.1109/NITC48475.2019.9114518
 ---
