@@ -44,16 +44,31 @@ date_format = "Jan 2006"
   
   * Working on research for predicting human disagreements on natural language social media datasets.
   * Build research pipelines for deploying on Google Cloud using Python Machine Learning stack and MongoDB.
-  * Presented work at [ECAI 2020](../publication/weerasooriya-2020/index.md). 
+  * Presented work at [ECAI 2020](../publication/weerasooriya-2020/). 
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
-
+  title = "Adjunct Lecturer"
+  company = "Rochester Institute of Technology"
+  company_url = "https://www.rit.edu/"
+  company_logo = "rit.svg"
+  location = "Rochester"
+  date_start = "2020-05-01"
+  date_end = "2020-08-31"
+  description = """
+  * Taught CS635 - Introduction to Machine Learning virtually.
+  """
+[[experience]]
+  title = "Intern Research Assistant"
+  company = "HEALS Project (part of IBM AI Horizon) at Rensselaer Polytechnic Institute"
+  company_url = "https://www.rpi.edu/"
+  company_logo = "rpi.svg"
+  location = "Rensselaer"
+  date_start = "2019-05-01"
+  date_end = "2019-08-31"
+  description = """
+  * Research based on natural language processing and information retrieval.
+  * Conducted research on aggregating food related data sources for food knowledge graph, which is used with IBM Watson.
+  * The tool was able to generate the nutritional content per FDA guidelines from a crowdsourced recipe.
+  """
 +++
