@@ -71,4 +71,17 @@ date_format = "Jan 2006"
   * Conducted research on aggregating food related data sources for food knowledge graph, which is used with IBM Watson.
   * The tool was able to generate the nutritional content per FDA guidelines from a crowdsourced recipe.
   """
+[[experience]]
+  title = "Tech Lead"
+  company = "LKEMR"
+  company_url = "https://www.rpi.edu/"
+  company_logo = "rpi.svg"
+  location = "Sri Lanka"
+  date_start = "2018-03-01"
+  date_end = ""
+  description = """
+  * Research based on natural language processing and information retrieval.
+  * Conducted research on aggregating food related data sources for food knowledge graph, which is used with IBM Watson.
+  * The tool was able to generate the nutritional content per FDA guidelines from a crowdsourced recipe.
+  """
 +++
