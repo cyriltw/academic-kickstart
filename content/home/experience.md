@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   location = "Rochester"
   date_start = "2018-08-01"
   date_end = ""
-  description = ""
+  description = "PLDL"
   Responsibilities include:
   
   * Analysing
