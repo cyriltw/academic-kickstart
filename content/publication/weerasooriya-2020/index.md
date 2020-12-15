@@ -12,7 +12,7 @@ tags:
 - nlp
 - pldl
 categories:
-- featured
+- PLDL
 date: '2020-01-01'
 lastmod: 2020-12-06T11:14:14-05:00
 featured: true

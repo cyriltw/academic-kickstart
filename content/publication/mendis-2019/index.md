@@ -23,7 +23,7 @@ tags:
 - '"open source"'
 - '"personal health records"'
 - '"primary health care"'
-categories: ["featured"]
+categories: ["Public Health"]
 date: '2019-01-01'
 lastmod: 2020-12-06T11:14:14-05:00
 featured: true
