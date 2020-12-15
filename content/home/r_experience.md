@@ -48,17 +48,6 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Adjunct Lecturer"
-  company = "Rochester Institute of Technology"
-  company_url = "https://www.rit.edu/"
-  company_logo = "rit.svg"
-  location = "Rochester, NY"
-  date_start = "2020-05-01"
-  date_end = "2020-08-31"
-  description = """
-  * Taught CS635 - Introduction to Machine Learning virtually.
-  """
-[[experience]]
   title = "Intern Research Assistant"
   company = "HEALS Project (part of IBM AI Horizon) at Rensselaer Polytechnic Institute"
   company_url = "https://www.rpi.edu/"
@@ -71,17 +60,5 @@ date_format = "Jan 2006"
   * Conducted research on aggregating food related data sources for food knowledge graph, which is used with IBM Watson.
   * The tool was able to generate the nutritional content per FDA guidelines from a crowdsourced recipe.
   """
-[[experience]]
-  title = "Tech Lead"
-  company = "LKEMR"
-  company_url = "https://www.rpi.edu/"
-  company_logo = "rpi.svg"
-  location = "Sri Lanka"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = """
-  * Research based on natural language processing and information retrieval.
-  * Conducted research on aggregating food related data sources for food knowledge graph, which is used with IBM Watson.
-  * The tool was able to generate the nutritional content per FDA guidelines from a crowdsourced recipe.
-  """
+
 +++
