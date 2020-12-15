@@ -35,11 +35,11 @@ date_format = "Jan 2006"
   title = "Research Assistant"
   company = "Rochester Institute of Technology"
   company_url = "https://www.rit.edu/"
-  company_logo = "test.svg"
+  company_logo = "rit.svg"
   location = "Rochester"
   date_start = "2018-08-01"
   date_end = ""
-  description = """
+  description = ""
   Responsibilities include:
   
   * Analysing
