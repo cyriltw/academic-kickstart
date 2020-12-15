@@ -42,9 +42,9 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Working on research for predicting human disagreements on natural language social media datasets.
+  * Build research pipelines for deploying on Google Cloud using Python Machine Learning stack and MongoDB.
+  * Presented work at [ECAI 2020](../publication/weerasooriya-2020/index.md). 
   """
 
 [[experience]]
