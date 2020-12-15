@@ -46,15 +46,19 @@ date_format = "Jan 2006"
   """
 [[experience]]
   title = "Tech Lead"
-  company = "LKEMR"
-  company_url = "https://www.rpi.edu/"
-  company_logo = "rpi.svg"
+  company = "LKEMR - Cloud-based Electronic Medical Record System"
+  company_url = "http://lkemr.com/"
+  company_logo = "lkemr.png"
   location = "Sri Lanka"
   date_start = "2018-03-01"
   date_end = ""
   description = """
-  * Research based on natural language processing and information retrieval.
-  * Conducted research on aggregating food related data sources for food knowledge graph, which is used with IBM Watson.
-  * The tool was able to generate the nutritional content per FDA guidelines from a crowdsourced recipe.
+Collaborative project with the Faculty of Medicine, and Colombo North Teaching Hospital, Sri Lanka.
+Tools used - PHP, MySQL, HTML, CSS, and UNIX. Python for data mining. Hosted on DigitalOcean and AWS.
+  * Web based electronic patient record management system, tailored for Sri Lanka using PHP backend, and MySQL database. 
+  * EMR currently holds records for over 1,000 patients across several cities in Sri Lanka.
+  * Currently been used to identify potential patients with COVID-19, as it is the only EMR widely used in Sri Lanka. 
+  * The work also contributes to open sourced EMR Project, Open-EMR.
+  * Research work published in NITC 2019 and workshop organizing committee for WONCA 2020.
   """
 +++
