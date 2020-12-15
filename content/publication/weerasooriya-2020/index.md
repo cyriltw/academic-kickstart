@@ -8,8 +8,11 @@ authors:
 - Tharindu Cyril Weerasooriya
 - Tong Liu
 - Christopher M. Homan
-tags: []
-categories: ["featured"]
+tags:
+- nlp
+- pldl
+categories:
+- featured
 date: '2020-01-01'
 lastmod: 2020-12-06T11:14:14-05:00
 featured: false
@@ -28,7 +31,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["machine-learning"]
 publishDate: '2020-12-06T16:14:14.822304Z'
 publication_types:
 - '2'
