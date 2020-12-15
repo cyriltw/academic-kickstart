@@ -25,7 +25,7 @@ bio: My research interests include population-level label distribution learning 
 interests:
 - Label Distribution Learning
 - Computational Linguistics & Natural Language Processing
-- Human Disagreements and modeling them
+- DevOPS
 - Data Science
 - Machine Learning
 - Photography
