@@ -43,7 +43,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-12-06T21:41:08.853018Z'
+publishDate: '2021-12-06T21:49:47.482919Z'
 publication_types:
 - '2'
 abstract: Sri Lankans made over 100 million visits to public and private outpatient

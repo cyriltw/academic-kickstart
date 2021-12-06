@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-12-06T21:41:09.147949Z'
+publishDate: '2021-12-06T21:49:47.791332Z'
 publication_types:
 - '1'
 abstract: The corpus is a limiting factor for a keyword extraction process with a

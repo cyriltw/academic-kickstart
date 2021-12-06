@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-12-06T21:41:09.732825Z'
+publishDate: '2021-12-06T21:49:48.416710Z'
 publication_types:
 - '1'
 abstract: A tweet is an authentic use of Natural Language where the user has to deliver

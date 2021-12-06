@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-12-06T21:41:09.581868Z'
+publishDate: '2021-12-06T21:49:48.245490Z'
 publication_types:
 - '2'
 abstract: "Sri Lankan English (SLE) has unique phonological, morphological, lexical\
@@ -47,8 +47,8 @@ abstract: "Sri Lankan English (SLE) has unique phonological, morphological, lexi
   \ were used in a questionnaire survey of 60 participants of which 30 were of the\
   \ age 15 – 25 years and 30 were of the age 65- 75 years. The results of the survey\
   \ were then analyzed in detail through 10 interviews. The surveys and the interviews\
-  \ were conducted to prove / disprove the age-gradedness of the SLE vocabulary and\
-  \ to prove / disprove the apparent-time hypothesis in relation to the SLE vocabulary.\
+  \ were conducted to prove/disprove the age-gradedness of the SLE vocabulary and\
+  \ to prove/disprove the apparent-time hypothesis in relation to the SLE vocabulary.\
   \ Most of the vocabulary used disproved age-gradedness. The usages of these terms\
   \ were found to be generation specific, which supported that the SLE vocabulary\
   \ is not age-graded. The interviews supported the apparent-time hypotheses as the\

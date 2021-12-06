@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: [machine-learning]
-publishDate: '2021-12-06T21:41:09.005826Z'
+publishDate: '2021-12-06T21:49:47.637383Z'
 publication_types:
 - '2'
 abstract: Supervised machine learning often requires human-annotated data. While annotator
