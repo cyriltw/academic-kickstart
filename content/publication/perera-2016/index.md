@@ -13,7 +13,7 @@ categories:
 - Sociolinguistics
 date: '2016-01-01'
 lastmod: 2020-12-06T11:14:15-05:00
-featured: true
+featured: false
 draft: false
 
 # Featured image
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-06T16:14:15.422832Z'
+publishDate: '2021-12-06T21:41:09.581868Z'
 publication_types:
 - '2'
 abstract: "Sri Lankan English (SLE) has unique phonological, morphological, lexical\
@@ -58,4 +58,7 @@ abstract: "Sri Lankan English (SLE) has unique phonological, morphological, lexi
   \ over 60 years could be termed an evolution."
 publication: '*VISTAS Journal*'
 url_pdf: http://digital.lib.ou.ac.lk/docs/handle/701300122/1453
+links:
+- name: URL
+  url: http://digital.lib.ou.ac.lk/docs/handle/701300122/1453
 ---

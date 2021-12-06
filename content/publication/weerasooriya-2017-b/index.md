@@ -9,12 +9,12 @@ authors:
 - Nandula Perera
 - S. R. Liyanage
 tags:
-- '"Adaptive"'
-- '"Automated Corpus"'
-- '"KeyXtract"'
-- '"Natural Language Processing"'
-- '"Tweets"'
-categories: ["featured"]
+- Adaptive
+- Automated Corpus
+- KeyXtract
+- Natural Language Processing
+- Tweets
+categories: [featured]
 date: '2017-01-01'
 lastmod: 2020-12-06T11:14:15-05:00
 featured: false
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-06T16:14:14.969643Z'
+publishDate: '2021-12-06T21:41:09.147949Z'
 publication_types:
 - '1'
 abstract: The corpus is a limiting factor for a keyword extraction process with a
@@ -62,4 +62,7 @@ publication: '*17th International Conference on Advances in ICT for Emerging Reg
   ICTer 2017 - Proceedings*'
 url_pdf: https://ieeexplore.ieee.org/document/8257783
 doi: 10.1109/ICTER.2017.8257783
+links:
+- name: URL
+  url: https://ieeexplore.ieee.org/document/8257783
 ---

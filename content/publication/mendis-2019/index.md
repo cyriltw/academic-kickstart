@@ -14,19 +14,19 @@ authors:
 - Rajitha Wickramasinghe
 - Chaminda Weerabaddana
 tags:
-- '"Sri Lanka"'
-- '"biomedical informatics"'
-- '"cloud-based patient records"'
-- '"electronic health records"'
-- '"electronic medical records"'
-- '"medical records"'
-- '"open source"'
-- '"personal health records"'
-- '"primary health care"'
-categories: ["Public Health"]
+- Sri Lanka
+- biomedical informatics
+- cloud-based patient records
+- electronic health records
+- electronic medical records
+- medical records
+- open source
+- personal health records
+- primary health care
+categories: [Public Health]
 date: '2019-01-01'
 lastmod: 2020-12-06T11:14:14-05:00
-featured: true
+featured: false
 draft: false
 
 # Featured image
@@ -43,7 +43,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-06T16:14:14.668052Z'
+publishDate: '2021-12-06T21:41:08.853018Z'
 publication_types:
 - '2'
 abstract: Sri Lankans made over 100 million visits to public and private outpatient
@@ -73,4 +73,7 @@ abstract: Sri Lankans made over 100 million visits to public and private outpati
 publication: '*2019 National Information Technology Conference, NITC 2019*'
 url_pdf: https://ieeexplore.ieee.org/document/9114518
 doi: 10.1109/NITC48475.2019.9114518
+links:
+- name: URL
+  url: https://ieeexplore.ieee.org/document/9114518
 ---

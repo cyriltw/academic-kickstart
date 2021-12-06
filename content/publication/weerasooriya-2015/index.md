@@ -8,10 +8,10 @@ summary: ''
 authors:
 - Tharindu Weerasooriya
 tags:
-- '"automated railway ticketing system"'
-- '"electronic national identity card"'
-- '"java"'
-- '"mysql"'
+- automated railway ticketing system
+- electronic national identity card
+- java
+- mysql
 categories: []
 date: '2016-01-01'
 lastmod: 2020-12-06T11:14:15-05:00
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-06T16:14:15.126803Z'
+publishDate: '2021-12-06T21:41:09.291655Z'
 publication_types:
 - '2'
 abstract: Trains are a popular mode of public transport used by daily commuters in

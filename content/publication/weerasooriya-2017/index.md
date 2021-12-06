@@ -10,21 +10,21 @@ authors:
 - Nandula Perera
 - S. R. Liyanage
 tags:
-- '"0"'
-- '"2014"'
-- '"6"'
-- '"al"'
-- '"and pos tagging"'
-- '"b"'
-- '"current tools in nlp"'
-- '"currently"'
-- '"extraction"'
-- '"manning et"'
-- '"open nlp"'
-- '"stanford corenlp"'
-- '"version 1"'
-- '"version 3"'
-- '"welcome to apache"'
+- '0'
+- '2014'
+- '6'
+- al
+- and pos tagging
+- b
+- current tools in nlp
+- currently
+- extraction
+- manning et
+- open nlp
+- stanford corenlp
+- version 1
+- version 3
+- welcome to apache
 categories: []
 date: '2017-01-01'
 lastmod: 2020-12-06T11:14:15-05:00
@@ -45,7 +45,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-06T16:14:15.275359Z'
+publishDate: '2021-12-06T21:41:09.434782Z'
 publication_types:
 - '1'
 abstract: Since a tweet is limited to 140 characters, it is ambiguous and difficult
@@ -69,4 +69,9 @@ abstract: Since a tweet is limited to 140 characters, it is ambiguous and diffic
   to other NLP tools.
 publication: '*10th KDU International Research Conference*'
 url_pdf: http://arxiv.org/abs/1708.02912
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/1708.02912
+- name: URL
+  url: http://arxiv.org/abs/1708.02912
 ---

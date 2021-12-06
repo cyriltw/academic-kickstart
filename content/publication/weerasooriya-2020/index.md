@@ -15,7 +15,7 @@ categories:
 - PLDL
 date: '2020-01-01'
 lastmod: 2020-12-06T11:14:14-05:00
-featured: true
+featured: false
 draft: false
 
 # Featured image
@@ -31,8 +31,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ["machine-learning"]
-publishDate: '2020-12-06T16:14:14.822304Z'
+projects: [machine-learning]
+publishDate: '2021-12-06T21:41:09.005826Z'
 publication_types:
 - '2'
 abstract: Supervised machine learning often requires human-annotated data. While annotator
@@ -50,4 +50,9 @@ abstract: Supervised machine learning often requires human-annotated data. While
 publication: '*Frontiers in Artificial Intelligence and Applications*'
 url_pdf: https://arxiv.org/abs/2003.07406
 doi: 10.3233/FAIA200130
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2003.07406
+- name: URL
+  url: https://arxiv.org/abs/2003.07406
 ---
