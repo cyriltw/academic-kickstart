@@ -13,7 +13,7 @@ design:
     text_color_light: true
 experience:
 - company: Rochester Institute of Technology
-  company_logo: rit.svg
+  company_logo: rit
   company_url: https://www.rit.edu/
   date_end: ''
   date_start: '2018-08-01'
@@ -25,7 +25,7 @@ experience:
   location: Rochester
   title: Research Assistant
 - company: HEALS Project (part of IBM AI Horizon) at Rensselaer Polytechnic Institute
-  company_logo: rpi.svg
+  company_logo: rpi
   company_url: https://www.rpi.edu/
   date_end: '2019-08-31'
   date_start: '2019-05-01'

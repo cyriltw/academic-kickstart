@@ -13,7 +13,7 @@ design:
     text_color_light: true
 experience:
 - company: Rochester Institute of Technology
-  company_logo: rit.svg
+  company_logo: rit
   company_url: https://www.rit.edu/
   date_end: '2020-08-31'
   date_start: '2020-05-01'
