@@ -8,12 +8,15 @@ authors:
 - Tharindu Cyril Weerasooriya
 - Alexander G. Ororbia II
 - Christopher M. Homan
-tags: []
-categories: []
+tags:
+- nlp
+- pldl
+categories:
+- PLDL
 date: '2021-01-01'
 lastmod: 2021-12-06T16:49:47-05:00
-featured: false
-draft: false
+featured: true
+draft: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
