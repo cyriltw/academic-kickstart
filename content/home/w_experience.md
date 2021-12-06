@@ -21,7 +21,6 @@ experience:
   location: Rochester, NY
   title: Adjunct Lecturer
 - company: LKEMR - Cloud-based Electronic Medical Record System
-  company_logo: lkemr.png
   company_url: http://lkemr.com/
   date_end: ''
   date_start: '2018-03-01'
