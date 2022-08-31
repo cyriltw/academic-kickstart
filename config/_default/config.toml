@@ -62,6 +62,9 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
     startLevel = 2
     endLevel = 3
 
+[marketing.analytics]
+google_analytics = "UA-166620266-1"
+
 [imaging]
   resampleFilter = "lanczos"
   quality = 90
@@ -69,6 +72,12 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 
 # Taxonomies.
 [taxonomies]
+  tag = "tags"
+  category = "categories"
+  publication_type = "publication_types"
+  author = "authors"
+
+[marketing]
   tag = "tags"
   category = "categories"
   publication_type = "publication_types"
