@@ -1,4 +1,4 @@
-module github.com/wowchemy/starter-hugo-academic
+module my-website
 
 go 1.15
 
