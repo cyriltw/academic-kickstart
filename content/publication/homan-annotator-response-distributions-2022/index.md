@@ -1,7 +1,7 @@
 ---
 title: "Annotator Response Distributions as a Sampling Frame"
 date: 2022-01-01
-publishDate: 2022-08-31T17:36:37.917707Z
+publishDate: 2022-08-31T17:38:43.547806Z
 authors: ["Christopher Homan", "Tharindu Cyril \textbfWeerasooriya", "Lora Aroyo", "Chris Welty"]
 publication_types: ["1"]
 abstract: "Annotator disagreement is often dismissed as noise or the result of poor annotation process quality. Others have argued that it can be meaningful. But lacking a rigorous statistical foundation, the analysis of disagreement patterns can resemble a high-tech form of tea-leaf-reading. We contribute a framework for analyzing the variation of per-item annotator response distributions to data for humans-in-the-loop machine learning. We provide visualizations for, and use the framework to analyze the variance in, a crowdsourced dataset of hard-to-classify examples of the OpenImages archive."
