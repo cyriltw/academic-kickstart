@@ -9,6 +9,7 @@ experience:
   date_start: '2022-05-01'
   description: |2-
     Worked at the Facebook Creators Wellbeing Team on Public Conversations. Overlooked models for improving the comments recommendation and ranking models on Facebook Pages with varying populations of followers from around the globe.
+    
     Project - Introduction of a Multi-Label Multi-Task model for assisting page administrations for comment management.
     * Experimented with real-time data from Facebook users for model building, millions of actions per day. 
     * Big data pipelines with Presto (similar to SQL) for collecting and processing data for the model.
