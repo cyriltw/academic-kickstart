@@ -19,7 +19,7 @@
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
 [appearance]
 theme_day = "minimal"
-theme_night = "cyberpunk"
+theme_night = "minimal"
 font = "cyberpunk"
 font_size = "M"
 
