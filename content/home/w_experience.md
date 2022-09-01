@@ -4,7 +4,7 @@ date_format: Jan 2006
 experience:
 - company: Meta (Formerly known as Facebook)
   company_logo: meta
-  company_url: https://www.rit.edu/
+  company_url: https://www.facebook.com/
   date_end: '2022-08-01'
   date_start: '2022-05-01'
   description: |2-
@@ -12,8 +12,8 @@ experience:
     * Working on research for predicting human disagreements on natural language social media datasets.
     * Build research pipelines for deploying on Google Cloud using Python Machine Learning stack and MongoDB.
     * Presented work at [ECAI 2020](../publication/weerasooriya-2020/),[LREC 2022](../publication/weerasooriya-improving-label-quality-2022).
-  location: Rochester
-  title: Research Assistant
+  location: Menlo Park, CA
+  title: Machine Learning Research Engineer (Summer Intern)
 - company: Rochester Institute of Technology
   company_logo: rit
   company_url: https://www.rit.edu/
@@ -24,7 +24,7 @@ experience:
     * Working on research for predicting human disagreements on natural language social media datasets.
     * Build research pipelines for deploying on Google Cloud using Python Machine Learning stack and MongoDB.
     * Presented work at [ECAI 2020](../publication/weerasooriya-2020/),[LREC 2022](../publication/weerasooriya-improving-label-quality-2022).
-  location: Rochester
+  location: Rochester, NY
   title: Research Assistant
 - company: Rochester Institute of Technology
   company_logo: rit
@@ -32,7 +32,7 @@ experience:
   date_end: '2020-08-31'
   date_start: '2020-05-01'
   description: "  * Taught CS635 - Introduction to Machine Learning virtually.\n  "
-  location: Rochester, NY
+  location: Rochester, NY, NY
   title: Adjunct Lecturer
 - company: LKEMR - Cloud-based Electronic Medical Record System
   company_url: http://lkemr.com/
