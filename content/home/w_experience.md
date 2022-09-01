@@ -7,11 +7,11 @@ experience:
   company_url: https://www.rit.edu/
   date_end: ''
   date_start: '2018-08-01'
-  description: "  Responsibilities include:\n  \n  * Working on research for predicting\
-    \ human disagreements on natural language social media datasets.\n  * Build research\
-    \ pipelines for deploying on Google Cloud using Python Machine Learning stack\
-    \ and MongoDB.\n  * Presented work at [ECAI 2020](../publication/weerasooriya-2020/).\
-    \ \n  "
+  description: |2-
+    Responsibilities include:
+    * Working on research for predicting human disagreements on natural language social media datasets.
+    * Build research pipelines for deploying on Google Cloud using Python Machine Learning stack and MongoDB.
+    * Presented work at [ECAI 2020](../publication/weerasooriya-2020/),[LREC 2022](../publication/weerasooriya-improving-label-quality-2022).
   location: Rochester
   title: Research Assistant
 - company: HEALS Project (part of IBM AI Horizon) at Rensselaer Polytechnic Institute
@@ -19,11 +19,10 @@ experience:
   company_url: https://www.rpi.edu/
   date_end: '2019-08-31'
   date_start: '2019-05-01'
-  description: "  * Research based on natural language processing and information\
-    \ retrieval.\n  * Conducted research on aggregating food related data sources\
-    \ for food knowledge graph, which is used with IBM Watson.\n  * The tool was able\
-    \ to generate the nutritional content per FDA guidelines from a crowdsourced recipe.\n\
-    \  "
+  description: |2-
+    * Research based on natural language processing and information retrieval. 
+    * Conducted research on aggregating food related data sources for food knowledge graph, which is used with IBM Watson. 
+    * The tool was able to generate the nutritional content per FDA guidelines from a crowdsourced recipe.
   location: Troy, NY
   title: Intern Research Assistant
 - company: Rochester Institute of Technology
@@ -38,14 +37,12 @@ experience:
   company_url: http://lkemr.com/
   date_end: ''
   date_start: '2018-03-01'
-  description: "Collaborative project with the Faculty of Medicine, and Colombo North\
-    \ Teaching Hospital, Sri Lanka.\n  * Web based electronic patient record management\
-    \ system, tailored for Sri Lanka using PHP backend, and MySQL database on AWS.\
-    \ \n  * Currently been used to identify potential patients with COVID-19, as it\
-    \ is the only EMR widely used in Sri Lanka. \n  * The work also contributes to\
-    \ open sourced EMR Project, [Open-EMR](https://github.com/openemr/openemr).\n\
-    \  * Research work published in NITC 2019 and workshop organizing committee for\
-    \ WONCA 2020.\n  "
+  description: |2-
+    Collaborative project with the Faculty of Medicine, and Colombo North Teaching Hospital, Sri Lanka.
+    * Web based electronic patient record management system, tailored for Sri Lanka using PHP backend, and MySQL database on AWS.
+    * Currently been used to identify potential patients with COVID-19, as it is the only EMR widely used in Sri Lanka. 
+    * The work also contributes to open sourced EMR Project, [Open-EMR](https://github.com/openemr/openemr).
+    * Research work published in NITC 2019 and workshop organizing committee for WONCA 2020.
   location: Sri Lanka
   title: Tech Lead
 headless: true
