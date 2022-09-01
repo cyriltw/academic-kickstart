@@ -18,6 +18,8 @@ organizations:
   url: "https://rit.edu/lpi"
 - name: Rochester Institute of Technology
   url: ""
+- name: Doctoral Student Association (RIT)
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include population-level label distribution learning and natural language processing.
@@ -76,6 +78,8 @@ user_groups:
 ---
 
  Hello there. I study how we can predict human disagreements during human annotation using machine learning. This work is helpful when we want to model human disagreements, which is conventionally considered *annotation noise*. Following recent breakthroughs in machine learning research has shown instances where the algorithms being biased towards specific groups. I'm PhD student at the [Lab for Population Intelligence](https://www.rit.edu/lpi/) at RIT led by Professor [Christopher Homan](https://www.rit.edu/lpi/christopher-homan).
+
+ I've interned at Meta (Facebook) in Summer 2022 and RPI (IBM Watson Project) in Summer 2019. 
 
  In parallel, I'm also working with University of Kelaniya in Sri Lanka to build an electronic medical record system for the entity of Sri Lanka. 
 
