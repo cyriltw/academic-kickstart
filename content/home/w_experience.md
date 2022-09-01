@@ -3,7 +3,7 @@ active: true
 date_format: Jan 2006
 experience:
 - company: Meta (Formerly known as Facebook)
-  company_logo: rit
+  company_logo: meta
   company_url: https://www.rit.edu/
   date_end: ''
   date_start: '2018-08-01'
