@@ -8,10 +8,12 @@ experience:
   date_end: '2022-08-01'
   date_start: '2022-05-01'
   description: |2-
-    Responsibilities include:
-    * Working on research for predicting human disagreements on natural language social media datasets.
-    * Build research pipelines for deploying on Google Cloud using Python Machine Learning stack and MongoDB.
-    * Presented work at [ECAI 2020](../publication/weerasooriya-2020/),[LREC 2022](../publication/weerasooriya-improving-label-quality-2022).
+    Worked at the Facebook Creators Wellbeing Team on Public Conversations. Overlooked models for improving the comments recommendation and ranking models on Facebook Pages with varying populations of followers from around the globe.
+    Project - Introduction of a Multi-Label Multi-Task model for assisting page administrations for comment management.
+    * Experimented with real-time data from Facebook users for model building, millions of actions per day. 
+    * Big data pipelines with Presto (similar to SQL) for collecting and processing data for the model.
+    * The model bypassed the existing individual action-based models used by 40\% based on ROC and PR AUC scores. 
+    * Evaluated the model in production with A/B testing on 4\% of overall global Facebook users. 
   location: Menlo Park, CA
   title: Machine Learning Research Engineer (Summer Intern)
 - company: Rochester Institute of Technology
@@ -59,7 +61,7 @@ experience:
   title: Intern Research Assistant
 headless: true
 subtitle: ''
-title: Research Experience
+title: Experience
 weight: 50
 widget: experience
 ---
