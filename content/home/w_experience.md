@@ -5,8 +5,8 @@ experience:
 - company: Meta (Formerly known as Facebook)
   company_logo: meta
   company_url: https://www.rit.edu/
-  date_end: ''
-  date_start: '2018-08-01'
+  date_end: '2022-08-01'
+  date_start: '2022-05-01'
   description: |2-
     Responsibilities include:
     * Working on research for predicting human disagreements on natural language social media datasets.
