@@ -2,6 +2,18 @@
 active: true
 date_format: Jan 2006
 experience:
+- company: Meta (Formerly known as Facebook)
+  company_logo: meta
+  company_url: https://www.rit.edu/
+  date_end: ''
+  date_start: '2018-08-01'
+  description: |2-
+    Responsibilities include:
+    * Working on research for predicting human disagreements on natural language social media datasets.
+    * Build research pipelines for deploying on Google Cloud using Python Machine Learning stack and MongoDB.
+    * Presented work at [ECAI 2020](../publication/weerasooriya-2020/),[LREC 2022](../publication/weerasooriya-improving-label-quality-2022).
+  location: Rochester
+  title: Research Assistant
 - company: Rochester Institute of Technology
   company_logo: rit
   company_url: https://www.rit.edu/
