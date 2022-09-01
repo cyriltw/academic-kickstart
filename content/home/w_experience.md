@@ -1,16 +1,6 @@
 ---
 active: true
 date_format: Jan 2006
-design:
-  background:
-    gradient_end: '#2b94c3'
-    gradient_start: '#4bb4e3'
-    image: exp.jpg
-    image_darken: 0.6
-    image_parallax: true
-    image_position: center
-    image_size: cover
-    text_color_light: true
 experience:
 - company: Rochester Institute of Technology
   company_logo: rit
