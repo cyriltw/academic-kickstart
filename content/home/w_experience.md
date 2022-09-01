@@ -14,17 +14,6 @@ experience:
     * Presented work at [ECAI 2020](../publication/weerasooriya-2020/),[LREC 2022](../publication/weerasooriya-improving-label-quality-2022).
   location: Rochester
   title: Research Assistant
-- company: HEALS Project (part of IBM AI Horizon) at Rensselaer Polytechnic Institute
-  company_logo: rpi
-  company_url: https://www.rpi.edu/
-  date_end: '2019-08-31'
-  date_start: '2019-05-01'
-  description: |2-
-    * Research based on natural language processing and information retrieval. 
-    * Conducted research on aggregating food related data sources for food knowledge graph, which is used with IBM Watson. 
-    * The tool was able to generate the nutritional content per FDA guidelines from a crowdsourced recipe.
-  location: Troy, NY
-  title: Intern Research Assistant
 - company: Rochester Institute of Technology
   company_logo: rit
   company_url: https://www.rit.edu/
@@ -45,6 +34,17 @@ experience:
     * Research work published in NITC 2019 and workshop organizing committee for WONCA 2020.
   location: Sri Lanka
   title: Tech Lead
+- company: HEALS Project (part of IBM AI Horizon) at Rensselaer Polytechnic Institute
+  company_logo: rpi
+  company_url: https://www.rpi.edu/
+  date_end: '2019-08-31'
+  date_start: '2019-05-01'
+  description: |2-
+    * Research based on natural language processing and information retrieval. 
+    * Conducted research on aggregating food related data sources for food knowledge graph, which is used with IBM Watson. 
+    * The tool was able to generate the nutritional content per FDA guidelines from a crowdsourced recipe.
+  location: Troy, NY
+  title: Intern Research Assistant
 headless: true
 subtitle: ''
 title: Research Experience
