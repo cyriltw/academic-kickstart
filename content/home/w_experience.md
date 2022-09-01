@@ -5,6 +5,30 @@ experience:
 - company: Rochester Institute of Technology
   company_logo: rit
   company_url: https://www.rit.edu/
+  date_end: ''
+  date_start: '2018-08-01'
+  description: "  Responsibilities include:\n  \n  * Working on research for predicting\
+    \ human disagreements on natural language social media datasets.\n  * Build research\
+    \ pipelines for deploying on Google Cloud using Python Machine Learning stack\
+    \ and MongoDB.\n  * Presented work at [ECAI 2020](../publication/weerasooriya-2020/).\
+    \ \n  "
+  location: Rochester
+  title: Research Assistant
+- company: HEALS Project (part of IBM AI Horizon) at Rensselaer Polytechnic Institute
+  company_logo: rpi
+  company_url: https://www.rpi.edu/
+  date_end: '2019-08-31'
+  date_start: '2019-05-01'
+  description: "  * Research based on natural language processing and information\
+    \ retrieval.\n  * Conducted research on aggregating food related data sources\
+    \ for food knowledge graph, which is used with IBM Watson.\n  * The tool was able\
+    \ to generate the nutritional content per FDA guidelines from a crowdsourced recipe.\n\
+    \  "
+  location: Troy, NY
+  title: Intern Research Assistant
+- company: Rochester Institute of Technology
+  company_logo: rit
+  company_url: https://www.rit.edu/
   date_end: '2020-08-31'
   date_start: '2020-05-01'
   description: "  * Taught CS635 - Introduction to Machine Learning virtually.\n  "
@@ -26,8 +50,7 @@ experience:
   title: Tech Lead
 headless: true
 subtitle: ''
-title: Related Experience
-weight: 60
+title: Research Experience
+weight: 50
 widget: experience
 ---
-
