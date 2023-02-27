@@ -52,8 +52,8 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/dotcyril
-- icon: google-scholar
-  icon_pack: ai
+- icon: graduation-cap
+  icon_pack: fas
   link: https://scholar.google.com/citations?user=P6zvClgAAAAJ&hl=en
 - icon: github
   icon_pack: fab
