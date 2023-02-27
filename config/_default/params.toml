@@ -278,3 +278,6 @@ plugins_js  = []
 
 [icon.pack]
   ai = true
+
+[academicons]
+  enable = true
