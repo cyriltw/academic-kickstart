@@ -60,7 +60,7 @@ social:
   link: https://github.com/cyriltw
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/tharindu-cyril-weerasooriya-988807122/
+  link: https://www.linkedin.com/in/cyrilw/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
