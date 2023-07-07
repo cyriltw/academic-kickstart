@@ -26,4 +26,3 @@
   to = "https://twitter.com/dotcyril"
   status = 301
   force = true
-  query = {path = ":path"}
