@@ -20,3 +20,10 @@
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
     debug = true
+
+[[redirects]]
+  from = "/twitter"
+  to = "https://twitter.com/dotcyril"
+  status = 301
+  force = false
+  query = {path = ":path"}
