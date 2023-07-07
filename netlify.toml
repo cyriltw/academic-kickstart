@@ -25,5 +25,5 @@
   from = "/twitter"
   to = "https://twitter.com/dotcyril"
   status = 301
-  force = false
+  force = true
   query = {path = ":path"}
