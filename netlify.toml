@@ -26,3 +26,15 @@
   to = "https://twitter.com/dotcyril"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/crowdopinion"
+  to = "https://virtual2023.aclweb.org/paper_P197.html"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/disco"
+  to = "https://virtual2023.aclweb.org/paper_P2024.html"
+  status = 301
+  force = true
