@@ -2,7 +2,7 @@
 title: Cloud-Based Open Source Primary Care Electronic Patient Record System for Sri
   Lankan Citizens
 date: '2019-01-01'
-publishDate: '2023-02-25T03:59:56.906859Z'
+publishDate: '2023-07-11T12:31:39.478006Z'
 authors:
 - Kumara Mendis
 - Tharindu Cyril Weerasooriya

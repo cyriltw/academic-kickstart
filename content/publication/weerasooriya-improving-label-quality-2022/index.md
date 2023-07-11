@@ -1,7 +1,7 @@
 ---
 title: Improving Label Quality by Joint Probabilistic Modeling of Items and Annotators
 date: '2022-01-01'
-publishDate: '2023-02-25T03:59:56.973507Z'
+publishDate: '2023-07-11T12:31:39.539199Z'
 authors:
 - Tharindu Cyril Weerasooriya
 - Alexander G Ororbia

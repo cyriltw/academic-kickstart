@@ -2,7 +2,7 @@
 title: 'Automated Railway Ticketing System: Replacing the paper based ticket with
   the Electronic National Identity'
 date: '2016-01-01'
-publishDate: '2023-02-25T03:59:56.933897Z'
+publishDate: '2023-07-11T12:31:39.503043Z'
 authors:
 - Tharindu Weerasooriya
 publication_types:

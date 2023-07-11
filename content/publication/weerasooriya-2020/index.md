@@ -1,7 +1,7 @@
 ---
 title: Neighborhood-based pooling for population-level label distribution learning
 date: '2020-01-01'
-publishDate: '2023-02-25T03:59:56.917553Z'
+publishDate: '2023-07-11T12:31:39.487987Z'
 authors:
 - Tharindu Cyril Weerasooriya
 - Tong Liu
