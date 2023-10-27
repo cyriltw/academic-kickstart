@@ -78,7 +78,7 @@ user_groups:
 ---
 
  {{% callout note %}}
-  I'll be at ACL 2023 presenting two papers, [DisCo](https://cyrilw.com/publication/weerasooriya-etal-2023-disagreement/) and [CrowdOpinion](https://cyrilw.com/publication/weerasooriya-etal-2023-subjective/).
+  I'll be at EMNLP 2023 presenting work on [VOICED dataset](https://cyrilw.com/publication/weerasooriya-2023/). Recent work at ACL 2023 presenting two papers, [DisCo](https://cyrilw.com/publication/weerasooriya-etal-2023-disagreement/) and [CrowdOpinion](https://cyrilw.com/publication/weerasooriya-etal-2023-subjective/).
 {{% /callout %}}
 
 
