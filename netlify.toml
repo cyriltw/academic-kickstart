@@ -38,3 +38,9 @@
   to = "https://virtual2023.aclweb.org/paper_P2024.html"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/voiced"
+  to = "https://cyrilw.com/publication/weerasooriya-2023/"
+  status = 301
+  force = true
