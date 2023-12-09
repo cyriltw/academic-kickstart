@@ -12,4 +12,4 @@ url_pdf: "http://arxiv.org/abs/2301.12534"
 url_dataset: "https://github.com/Homan-Lab/voiced"
 ---
 
-![screen reader text](featured.png "caption")
+![Workflow Diagram for VOICED](workflow.png "Workflow Diagram for VOICED")
