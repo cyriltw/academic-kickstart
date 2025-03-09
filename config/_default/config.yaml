@@ -21,6 +21,22 @@ module:
     - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-seo
     - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify
 
+  mounts:
+    - source: content
+      target: content
+    - source: static
+      target: static
+    - source: layouts
+      target: layouts
+    - source: data
+      target: data
+    - source: assets
+      target: assets
+    - source: i18n
+      target: i18n
+    - source: archetypes
+      target: archetypes
+
 ############################
 ## ADVANCED
 ############################
@@ -52,6 +68,8 @@ outputFormats:
     isPlainText: true
     mediaType: application/json
     notAlternative: true
+
+# Resource / Image processing options
 imaging:
   resampleFilter: lanczos
   quality: 75
@@ -64,6 +82,12 @@ imaging:
       quality: 75
     PNG:
       compression: 9
+
+# Resource management
+build:
+  writeStats: true
+  noJSConfigInAssets: false
+
 timeout: 600000
 taxonomies:
   tag: tags
@@ -72,6 +96,9 @@ taxonomies:
   author: authors
 markup:
   _merge: deep
+  goldmark:
+    renderer:
+      unsafe: true
 security:
   enableInlineShortcodes: false
   exec:
