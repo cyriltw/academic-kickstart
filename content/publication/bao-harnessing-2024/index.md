@@ -1,5 +1,6 @@
 ---
 title: Harnessing Business and Media Insights with Large Language Models
+featured: false
 authors:
 - Yujia Bao
 - Ankit Parag Shah

@@ -1,5 +1,6 @@
 ---
 title: Rater Cohesion and Quality from a Vicarious Perspective
+featured: false
 authors:
 - Deepak Pandita
 - Tharindu Cyril Weerasooriya
