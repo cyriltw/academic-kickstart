@@ -26,7 +26,7 @@ authors:
 - Eva Siqi Wang
 - Gina Escobar
 - Jiaheng Wei
-- \textbfTharindu Cyril \textbfWeerasooriya
+- Tharindu Cyril Weerasooriya
 - Queena Song
 - Daria Lashkevich
 - Clare Chen
