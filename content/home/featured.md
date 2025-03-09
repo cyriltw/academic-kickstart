@@ -20,9 +20,9 @@ content:
   # Filter on criteria
   filters:
     author: ""
-    category: "home_feature"
+    category: ""
     publication_type: ""
-    tag: ""
+    tag: "home_feature"
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
 
