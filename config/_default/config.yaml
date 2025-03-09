@@ -56,6 +56,14 @@ imaging:
   resampleFilter: lanczos
   quality: 75
   anchor: smart
+  exif:
+    disableDate: true
+    disableLatLong: true
+  config:
+    JPEG:
+      quality: 75
+    PNG:
+      compression: 9
 timeout: 600000
 taxonomies:
   tag: tags
