@@ -8,3 +8,6 @@ require (
 	github.com/HugoBlox/hugo-blox-builder/modules/blox-seo v0.2.3
 	github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.1
 )
+
+replace (
+)

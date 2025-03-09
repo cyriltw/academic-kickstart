@@ -10,10 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student
+role: Research Scientist
 
 # Organizations/Affiliations
 organizations:
+- name: Accenture
+  url: "https:/accenture.com
 - name: Lab for Population Intelligence
   url: "https://rit.edu/lpi"
 - name: Rochester Institute of Technology
