@@ -1,6 +1,6 @@
 module github.com/wowchemy/starter-hugo-academic
 
-go 1.15
+go 1.19
 
 require (
 	github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5 v5.9.7
