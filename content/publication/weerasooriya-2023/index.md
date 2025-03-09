@@ -1,7 +1,7 @@
 ---
 title: "Vicarious Offense and Noise Audit of Offensive Speech Classifiers: Unifying Human and Machine Disagreement on What is Offensive"
 date: 2023-12-02
-publishDate: 2023-02-31T17:41:08.634293Z
+publishDate: 2023-02-28T17:41:08.634293Z
 authors: ["Tharindu Cyril Weerasooriya", "Sujan Dutta","Tharindu Ranasinghe", "Marcos Zampieri","Christopher M. Homan","Ashiqur R. KhudaBukhsh"]
 publication_types: ["1"]
 author_notes: ["Equal contribution","Equal contribution"]
