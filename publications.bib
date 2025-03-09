@@ -1,20 +1,34 @@
-@misc{dutta2024articleannotatorreliabilityincontext,
+@inproceedings{dutta2024articleannotatorreliabilityincontext,
       title={ARTICLE: Annotator Reliability Through In-Context Learning}, 
       author={Sujan Dutta and Deepak Pandita and Tharindu Cyril Weerasooriya and Marcos Zampieri and Christopher M. Homan and Ashiqur R. KhudaBukhsh},
-      year={2024},
+      booktitle = "AAAI 2025",
+      month = mar,
+      year = "2025",
       eprint={2409.12218},
       archivePrefix={arXiv},
       primaryClass={cs.CL},
       url={https://arxiv.org/abs/2409.12218}, 
+      abstract = "Ensuring annotator quality in training and evaluation data is a key piece of machine learning in NLP. Tasks such as sentiment analysis and offensive speech detection are intrinsically subjective, creating a challenging scenario for traditional quality assessment approaches because it is hard to distinguish disagreement due to poor work from that due to differences of opinions between sincere annotators. With the goal of increasing diverse perspectives in annotation while ensuring consistency, we propose \texttt{ARTICLE}, an in-context learning (ICL) framework to estimate annotation quality through self-consistency. We evaluate this framework on two offensive speech datasets using multiple LLMs and compare its performance with traditional methods. Our findings indicate that \texttt{ARTICLE} can be used as a robust method for identifying reliable annotators, hence improving data quality.",
 }
-@misc{pandita2024ratercohesionqualityvicarious,
-      title={Rater Cohesion and Quality from a Vicarious Perspective}, 
-      author={Deepak Pandita and Tharindu Cyril Weerasooriya and Sujan Dutta and Sarah K. Luger and Tharindu Ranasinghe and Ashiqur R. KhudaBukhsh and Marcos Zampieri and Christopher M. Homan},
-      year={2024},
-      eprint={2408.08411},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2408.08411}, 
+@inproceedings{pandita-etal-2024-rater,
+    title = "Rater Cohesion and Quality from a Vicarious Perspective",
+    author = "Pandita, Deepak  and
+      Weerasooriya, Tharindu Cyril  and
+      Dutta, Sujan  and
+      Luger, Sarah K.  and
+      Ranasinghe, Tharindu  and
+      KhudaBukhsh, Ashiqur R.  and
+      Zampieri, Marcos  and
+      Homan, Christopher M.",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2024",
+    month = nov,
+    year = "2024",
+    address = "Miami, Florida, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-emnlp.296/",
+    doi = "10.18653/v1/2024.findings-emnlp.296",
+    pages = "5149--5162",
+    abstract = "Human feedback is essential for building human-centered AI systems across domains where disagreement is prevalent, such as AI safety, content moderation, or sentiment analysis. Many disagreements, particularly in politically charged settings, arise because raters have opposing values or beliefs. Vicarious annotation is a method for breaking down disagreement by asking raters how they think others would annotate the data. In this paper, we explore the use of vicarious annotation with analytical methods for moderating rater disagreement. We employ rater cohesion metrics to study the potential influence of political affiliations and demographic backgrounds on raters' perceptions of offense. Additionally, we utilize CrowdTruth`s rater quality metrics, which consider the demographics of the raters, to score the raters and their annotations. We study how the rater quality metrics influence the in-group and cross-group rater cohesion across the personal and vicarious levels."
 }
 @inproceedings{weerasooriya-etal-2023-subjective,
     title = "Subjective Crowd Disagreements for Subjective Data: Uncovering Meaningful {C}rowd{O}pinion with Population-level Learning",
