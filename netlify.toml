@@ -44,3 +44,15 @@
   to = "https://cyrilw.com/publication/weerasooriya-2023/"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/acn/falm"
+  to = "https://fortune.com/2024/04/15/fortune-announces-ai-tool-with-accenture-to-help-analyze-visualize-fortune-500/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/acn/air"
+  to = "https://newsroom.accenture.com/news/2025/accenture-expands-ai-refinery-and-launches-new-industry-agent-solutions-to-accelerate-agentic-ai-adoption/"
+  status = 301
+  force = true
